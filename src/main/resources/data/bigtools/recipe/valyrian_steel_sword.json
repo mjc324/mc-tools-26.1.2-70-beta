@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " XX",
+    "SOX",
+    "SS "
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "X": "bigtools:valyrian_steel_ingot",
+    "O": "bigtools:diamond_flecked_obsidian"
+  },
+  "result": {
+    "id": "bigtools:valyrian_steel_sword"
+  }
+}

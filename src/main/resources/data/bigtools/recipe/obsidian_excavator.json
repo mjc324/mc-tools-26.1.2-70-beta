@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XOX",
+    "OXO",
+    "XOX"
+  ],
+  "key": {
+    "O": "bigtools:diamond_flecked_obsidian",
+    "X": "bigtools:redstone_power_cell"
+  },
+  "result": {
+    "id": "bigtools:obsidian_excavator"
+  }
+}

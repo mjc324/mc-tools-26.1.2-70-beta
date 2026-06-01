@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bigtools:grass_stairs"
+    ]
+  },
+  "criteria": {
+    "has_grass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+				"minecraft:grass_block"
+			]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_grass"
+    ]
+  ]
+}

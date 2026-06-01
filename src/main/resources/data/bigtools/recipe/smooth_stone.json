@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "S S",
+    "SSS"
+  ],
+  "key": {
+	"S": "minecraft:stone"
+  },
+  "result": {
+    "id": "minecraft:smooth_stone"
+  }
+}

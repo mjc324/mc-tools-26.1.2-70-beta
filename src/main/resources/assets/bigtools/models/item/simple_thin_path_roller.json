@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "bigtools:item/simple_thin_path_roller"
+  }
+}

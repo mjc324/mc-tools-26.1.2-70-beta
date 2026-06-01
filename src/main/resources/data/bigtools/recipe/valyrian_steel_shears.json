@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "X  ",
+    " X "
+  ],
+  "key": {
+    "X": "bigtools:valyrian_steel_ingot"
+  },
+  "result": {
+    "id": "bigtools:valyrian_steel_shears"
+  }
+}

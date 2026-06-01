@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RQR",
+    "RDR",
+    "RQR"
+  ],
+  "key": {
+    "R": "minecraft:redstone_block",
+    "D": "minecraft:diamond",	
+    "Q": "minecraft:quartz_block"
+  },
+  "result": {
+    "id": "bigtools:redstone_power_cell"
+  }
+}

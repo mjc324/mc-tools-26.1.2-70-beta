@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/hopper",
+    "textures": {
+        "particle": "bigtools:block/diamond_hopper_outside",
+        "top": "bigtools:block/diamond_hopper_top",
+        "side": "bigtools:block/diamond_hopper_outside",
+        "inside": "bigtools:block/diamond_hopper_inside"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": "minecraft:pumpkin"
+  },
+"result": {
+    "id": "minecraft:carved_pumpkin",
+	"count": 4
+  }
+}

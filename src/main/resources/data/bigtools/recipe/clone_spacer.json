@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B  ",
+    " B ",
+    "  D"
+  ],
+  "key": {
+    "B": "minecraft:iron_hoe",
+    "D": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "bigtools:clone_spacer"
+  }
+}

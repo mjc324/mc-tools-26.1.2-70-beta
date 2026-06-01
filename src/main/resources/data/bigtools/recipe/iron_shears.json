@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "X  ",
+    "SX "
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "X": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "bigtools:iron_shears"
+  }
+}

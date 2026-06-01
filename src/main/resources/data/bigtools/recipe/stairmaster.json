@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SGS",
+    "DSD",
+    "SRS"
+  ],
+  "key": {
+    "S": "minecraft:stone",
+    "D": "minecraft:iron_block",
+    "G": "minecraft:gold_block",
+    "R": "minecraft:redstone_block"
+  },
+  "result": {
+    "id": "bigtools:stairmaster"
+  }
+}

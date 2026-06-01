@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OXO",
+    "XOX",
+    "DDD"
+  ],
+  "key": {
+    "D": "bigtools:valyrian_steel_ingot",
+    "O": "minecraft:diamond_block",
+    "X": "bigtools:redstone_power_cell"
+  },
+  "result": {
+    "id": "bigtools:valyrian_steel_tunneler"
+  }
+}

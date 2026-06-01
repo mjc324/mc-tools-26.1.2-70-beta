@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      "bigtools:simple_thin_path_roller"
+  ],
+  "result": {
+    "id": "bigtools:simple_path_roller"
+  }
+}

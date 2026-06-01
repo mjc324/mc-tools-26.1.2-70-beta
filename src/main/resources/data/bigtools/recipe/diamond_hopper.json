@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RDR",
+    "DHD",
+    "EDE"
+  ],
+  "key": {
+    "H": "minecraft:hopper",
+    "D": "minecraft:diamond_block",
+    "R": "minecraft:redstone_block",
+    "E": "minecraft:emerald_block"
+  },
+  "result": {
+    "id": "bigtools:diamond_hopper"
+  }
+}

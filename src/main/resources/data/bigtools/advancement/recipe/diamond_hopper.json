@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bigtools:diamond_hopper"
+    ]
+  },
+  "criteria": {
+    "has_diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+				"minecraft:diamond"
+			]
+          }
+        ]
+      }
+    },
+    "has_hopper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+				"minecraft:hopper"
+			]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_diamond",
+      "has_hopper"
+    ]
+  ]
+}

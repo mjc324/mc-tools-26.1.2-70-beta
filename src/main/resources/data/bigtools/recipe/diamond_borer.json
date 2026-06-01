@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "XOX",
+    "DDD"
+  ],
+  "key": {
+    "D": "minecraft:diamond_block",
+    "O": "minecraft:iron_block",
+    "X": "bigtools:redstone_power_cell"
+  },
+  "result": {
+    "id": "bigtools:diamond_borer"
+  }
+}
